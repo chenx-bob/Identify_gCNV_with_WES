@@ -1,0 +1,2 @@
+Chr	Total Length	Number of CNVR
+20	3583632	209
