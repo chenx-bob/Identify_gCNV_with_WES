@@ -1,2 +1,0 @@
-Interval_Has_Gene	Interval_Without_Gene	Total_Number_of_Genes
-205	4	243
