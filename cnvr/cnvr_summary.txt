@@ -1,4 +1,0 @@
-Type	N	Average Length	Min Length	Max Length	Total Length
-Gain	21	11800	286	90230	247801
-Loss	162	12457	110	106929	2017987
-Mixed	26	50686	500	395877	1317844
